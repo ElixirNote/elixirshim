@@ -4,11 +4,10 @@
     <small>go from data to knowledge</small>
 </div>
 
-# [Elixir Server](https://ciusji.gitbook.io/elixirnote/guides/elixirnote-server)
-
 # [Elixir Shim](https://ciusji.gitbook.io/elixirnote/guides/elixirnote-shim)
 
-This project provides a way for ElixirNote and other frontends to switch to [Elixir Server](https://github.com/ElixirNote/elixirserver) for their Python Web application backend.
+This project provides a way for ElixirNote and other frontends to switch 
+to [Elixir Server](https://github.com/ElixirNote/elixirserver) for their Python Web application backend.
 
 ## Basic Usage
 
