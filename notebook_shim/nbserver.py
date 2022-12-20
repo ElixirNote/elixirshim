@@ -131,6 +131,7 @@ def _link_jupyter_server_extension(serverapp):
                 )
                 manager.link_extension(name)
 
+
 def _load_jupyter_server_extension(serverapp):
     # Patch the config service manager to find the
     # proper path for old notebook frontend extensions

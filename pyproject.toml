@@ -41,8 +41,6 @@ test = [
     "pytest-console-scripts",
 ]
 
-
-
 [tool.hatch.version]
 path = "notebook_shim/_version.py"
 
